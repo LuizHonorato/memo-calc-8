@@ -1,0 +1,96 @@
+body {
+    background-color: #85C1E9
+}
+
+h3 {
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.btnDelete {
+    font-size: 24px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+b {
+    font-size: 30px;
+    cursor: pointer;
+    margin-left: 10px;
+    border: 2px solid #ABB2B9;
+    border-radius: 5px;
+}
+
+.container {
+    content: "";
+    clear: both;
+    display: table; 
+    width: 640px;
+    height: 400px;
+}
+
+.box-calculator {
+    background: #D5D8DC;
+    width: 53%;
+    position: relative;
+    height: 400px;
+    margin: auto;
+    border-radius: 5px;
+    border-bottom: 3px solid #ABB2B9;
+    float: left;
+}
+
+.box-memory {
+    background: #D5D8DC;
+    width: 47%;
+    position: relative;
+    height: 400px;
+    margin: auto;
+    border-radius: 5px;
+    border-bottom: 3px solid #ABB2B9;
+    border-left: 2px solid #ABB2B9;
+    float: left;
+}
+
+.title-page {
+    margin-bottom: 30px;
+}
+
+.calc-area {
+    margin: 10px;
+    height: 100px;
+    width: 93%;
+    text-align: right;
+    font-size: 50px;
+    font-weight: bold;
+    border-radius: 5px;
+    padding-right: 10px;
+    border: 3px solid #ABB2B9;
+}
+
+.calc-button {
+    height: 35px;
+    width: 60px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    background-color: #ecf0f1;
+    color: #2c3e50;
+    margin: 10px;
+    float: left;
+    position: relative;
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: 3px solid #ABB2B9;
+}
+
+.clear-button {
+    height: 35px;
+    width: 60px;
+    color: #fff;
+    background-color: #c0392b;
+    text-align: center;
+    line-height: 40px;
+    border-bottom: 3px solid #A63125;
+}

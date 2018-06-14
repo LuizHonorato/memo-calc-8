@@ -3,10 +3,10 @@ import 'modules/font-awesome/css/font-awesome.min.css'
 import '../calculator/custom.css'
 
 import React from 'react'
-import Calculator from '../calculator/calculator'
+import Routes from './routes'
 
 export default props => (
-    <div>
-        <Calculator />
+    <div className='container'>
+        <Routes />
     </div>
 )

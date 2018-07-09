@@ -15,8 +15,8 @@ O app foi criado com a utilização das seguintes ferramentas:
 
 No diretória de sua escolha siga os seguintes passos:
 
-1º - git clone
-2º - npm i
-3º - npm run dev
+- git clone
+- npm i
+- npm run dev
 
 # Screenshots

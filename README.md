@@ -2,7 +2,7 @@
 
 Esse aplicativo tem a finalidade de realizar cálculos básicos de matemática e salvar durante a sua utilização as últimas 8 operações (as mesmas também podem ser excluídas a qualquer momento).
 
-# Features
+# Sobre o build
 
 O app foi criado com a utilização das seguintes ferramentas:
 

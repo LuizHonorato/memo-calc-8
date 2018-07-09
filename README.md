@@ -15,7 +15,7 @@ O app foi criado com a utilização das seguintes ferramentas:
 
 No diretória de sua escolha siga os seguintes passos:
 
-- git clone
+- git clone https://github.com/LuizHonorato/memo-calc-8.git
 - npm i
 - npm run dev
 

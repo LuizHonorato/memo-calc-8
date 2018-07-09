@@ -21,3 +21,6 @@ No diretória de sua escolha siga os seguintes passos:
 
 # Screenshots
 
+<p><img src="images/print-memocalc-1.PNG" /></p>
+<p><img src="images/print-memocalc-2.PNG" /></p>
+<p><img src="images/print-memocalc-3.PNG" /></p>
